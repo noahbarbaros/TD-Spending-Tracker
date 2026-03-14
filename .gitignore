@@ -1,0 +1,16 @@
+# Bank statements - DO NOT COMMIT
+*.csv
+!sample.csv
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Output (generated markdown goes to your Obsidian vault)
+output/
+
+# OS
+.DS_Store

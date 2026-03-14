@@ -1,0 +1,34 @@
+{
+  "Food & Dining": [
+    "restaurant", "uber eats", "doordash", "skip the dishes", "mcdonald",
+    "tim horton", "starbucks", "subway", "pizza", "sushi", "grocery",
+    "loblaws", "metro", "freshco", "food basics", "no frills", "walmart",
+    "costco", "sobeys", "farm boy"
+  ],
+  "Transport": [
+    "uber trip", "lyft", "presto", "ttc", "go transit", "gas", "petro",
+    "shell", "esso", "parking", "canadian tire"
+  ],
+  "Shopping": [
+    "amazon", "best buy", "ikea", "winners", "shoppers", "dollarama",
+    "apple.com", "indigo"
+  ],
+  "Subscriptions": [
+    "netflix", "spotify", "apple", "disney", "amazon prime", "youtube",
+    "chatgpt", "openai", "github", "notion", "icloud"
+  ],
+  "Housing": [
+    "rent", "hydro", "enbridge", "rogers", "bell", "fido", "telus",
+    "internet", "insurance"
+  ],
+  "Health": [
+    "pharmacy", "shoppers drug", "rexall", "dentist", "doctor", "clinic",
+    "gym", "goodlife", "fit4less"
+  ],
+  "Entertainment": [
+    "cineplex", "ticketmaster", "steam", "playstation", "xbox", "nintendo"
+  ],
+  "Transfer": [
+    "e-transfer", "etransfer", "transfer", "tfsa", "rrsp", "invest"
+  ]
+}
